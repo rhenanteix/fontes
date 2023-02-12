@@ -1,0 +1,14 @@
+.form-button {
+    width: '100%';
+}
+
+.form-container {
+    padding-left: 12%;
+    padding-right: 12%;
+    /* padding-top: 5%;
+    padding-bottom: 5%; */
+}
+
+.form-field {
+    width: 100%;
+}

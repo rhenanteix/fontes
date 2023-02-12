@@ -1,0 +1,9 @@
+.actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.button-actions {
+    margin: 10px;
+}
